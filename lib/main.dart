@@ -1,3 +1,6 @@
+import 'package:ecomapp/pages/favourite_screen.dart';
+import 'package:ecomapp/pages/home_screen.dart';
+import 'package:ecomapp/pages/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -82,3 +85,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//stopped 5.26
